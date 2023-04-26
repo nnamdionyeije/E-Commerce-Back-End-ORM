@@ -4,7 +4,7 @@
 
 ## Description
 
-The backend for an e-commerce site build from starter code
+The backend for an E-Commerce site built from starter code
 
 ## Table of Contents
 
